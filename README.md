@@ -1,12 +1,12 @@
 # 32-bitMips
-Arquivos com sinais de controles e barramentos declarados.
-Este projeto pode ser usado como base para a descrição do miniMIPS da disciplina de Organização de Computadores (2019/2).
+
+Files with declared control signals and bus bars. The file is also hierarchical.
+This files can be used as base to miniMIPS project [2019/2].
 
 
-@author: *newtonjr*
+@author: [`newtonjr`]
 
 
-Engenharia de Computação
-
+Computer Engineering
 
 UNIVERSIDADE ESTADUAL DO RIO GRANDE DO SUL
