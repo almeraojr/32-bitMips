@@ -17,10 +17,18 @@ You may choose one of the options:
     
 - 2. Use the entire project
     > After downloading or cloning the folder, open the .xpr file.
-
-### @author: [`newtonjr`] | | [`newton-almerao@uergs.edu.br`]
-
+    > 
 
 #### Computer Engineering
 
 #### UNIVERSIDADE ESTADUAL DO RIO GRANDE DO SUL
+
+### @author
+
+[`newtonjr`] | | [`newton-almerao@uergs.edu.br`]
+
+
+## License
+
+[MIT License](https://choosealicense.com/licenses/mit/)
+
