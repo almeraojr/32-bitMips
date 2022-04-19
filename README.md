@@ -28,7 +28,7 @@ You may choose one of the options:
 ### @author
 
 [`newtonjr`] | | [`newton-almerao@uergs.edu.br`]
-
+[`deboramotta`] | | [`debora-motta@uergs.edu.br`]
 
 ## License
 
