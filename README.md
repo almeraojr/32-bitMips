@@ -5,7 +5,7 @@
 This is a 32-bit MiniMIPS base project. The project has the files with all necessary control signals and bus bars, however, you can create new ones or modify the existing for your needs. The files are hierarchical, so you don't need to worry with that.
 You can use this project as base to the final project for Computer Organization class at State University of Rio Grande do Sul - UERGS in early 2023 [2023/1].
 
-This helped students in 2021 and 2022 as well.
+This helped students in 2019, 2020, 2021 and 2022 as well.
 
 As they say:
 > May the force be with you!
